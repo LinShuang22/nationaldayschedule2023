@@ -10,6 +10,7 @@
 | 10.6  | 深圳  | Last dance |   深圳city walk    |   满满一天   |
 
 <span style="color:red;">行李物品：</span>
+
 ①佛山音乐节
 水，纸巾，湿巾，黄瓜？充气沙发，零食
 
@@ -20,35 +21,36 @@
 水，零食，手电筒，手机收纳袋，雨伞，长裤，双飞人，纸巾，湿巾，扇子
 
 <span style="color:red;">餐馆：</span>
+
 印度菜，潮汕牛肉火锅，螺蛳粉
 
 ## 10.1（音乐节）
-西安 → 深圳
-飞机<span style="color:green;">09:50</span>到深圳宝安机场
-地铁（<span style="color:green;">57分钟</span>） 11号线，5号线
-<span style="color:green;">11：30左右到达深圳北站</span>
-高铁（深圳北站 → 佛山西站）
-中间需要去一趟酒店收拾一下，预计可能3点左右入场
+西安 → 深圳。  
+飞机<span style="color:green;">09:50</span>到深圳宝安机场。  
+地铁（<span style="color:green;">57分钟</span>） 11号线，5号线。  
+<span style="color:green;">11：30左右到达深圳北站</span>。  
+高铁（深圳北站 → 佛山西站）。  
+中间需要去一趟酒店收拾一下，预计可能3点左右入场。  
 
 <img src="深圳北佛山西.png" alt="图片描述" width="300">
 
-晚上住在佛山。
-酒店：贡盈酒店（佛山西站店）
-距离时间：
-（佛山西站 → 酒店）<span style="color:green;">打车7分钟</span>
-（酒店 → 佛山青年公园）<span style="color:green;">打车20分钟</span>
+晚上住在佛山。  
+酒店：贡盈酒店（佛山西站店）。  
+距离时间：  
+（佛山西站 → 酒店）<span style="color:green;">打车7分钟</span>。  
+（酒店 → 佛山青年公园）<span style="color:green;">打车20分钟</span>。
 
 ## 10.2（古龙峡漂流）
-打车（酒店 → 佛山西站）<span style="color:green;">7分钟</span>
-从佛山出发。
-高铁（佛山西站 → 广州南站 → 清远站）
+打车（酒店 → 佛山西站）<span style="color:green;">7分钟</span>。  
+从佛山出发。  
+高铁（佛山西站 → 广州南站 → 清远站）。  
 
 <img src="佛山西站广州南站清远站.png" alt="图片描述" width="300">
 
-<span style="color:green;">上午11点左右</span>到清远。
-吃饭，然后准备漂流事宜。
-漂流结束大概4点左右？最晚不能超过5点（包括洗澡和收拾行李的时间，最晚要在<span style="color:green;">5:30</span>出发）
-打车（古龙峡漂流 → 清远站）<span style="color:green;">50分钟左右</span>
+<span style="color:green;">上午11点左右</span>到清远。  
+吃饭，然后准备漂流事宜。  
+漂流结束大概4点左右？最晚不能超过5点（包括洗澡和收拾行李的时间，最晚要在<span style="color:green;">5:30</span>出发）。  
+打车（古龙峡漂流 → 清远站）<span style="color:green;">50分钟左右</span>。  
 
 <img src="清远深圳北.png" alt="图片描述" width="300">
 
@@ -58,17 +60,17 @@
 
 ## 10.3（gap）
 
-gap一天，随意支配
-晚上需要先休息一下，可以<span style="color:green;">下午7点多</span>回酒店。可能需要<span style="color:green;">晚上11点多</span>就出门。
-只能打车（或者更早出门）（酒店 → 梧桐山 1小时左右）
+gap一天，随意支配。  
+晚上需要先休息一下，可以<span style="color:green;">下午7点多</span>回酒店。可能需要<span style="color:green;">晚上11点多</span>就出门。  
+只能打车（或者更早出门）（酒店 → 梧桐山 1小时左右）。  
 
 ## 10.4（爬梧桐山）
 
-夜（指凌晨）爬梧桐山
-<span style="color:green;">凌晨1点左右</span>开始
-夜爬需要走小路，上山3-4小时
-下山3-4小时，可能在中午之前回到酒店
-休息
+夜（指凌晨）爬梧桐山。  
+<span style="color:green;">凌晨1点左右</span>开始。  
+夜爬需要走小路，上山3-4小时。  
+下山3-4小时，可能在中午之前回到酒店。  
+休息。  
 
 ## 10.5（洗浴中心）
 
